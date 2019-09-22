@@ -1,0 +1,6 @@
+﻿  main.cpp
+  processData.cpp
+d:\hcmut\hk191\ctdl&dt\btl\assign\code\project1\project1\processdata.cpp(37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\hcmut\hk191\ctdl&dt\btl\assign\code\project1\project1\processdata.cpp(225): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Project1.vcxproj -> D:\HCMUT\HK191\CTDL&DT\BTL\assign\CODE\Project1\x64\Debug\Project1.exe
